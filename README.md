@@ -68,11 +68,14 @@ ZakaTrack is a comprehensive, gamified expense tracking application built for An
 - **GitHub Actions**: Continuous integration and automated testing
 
 ## 📱 Screenshots
-
-| Home Dashboard | Analytics | Gamification | Budget Tracking |
-|---|---|---|---|
-![IMG-20250625-WA0014](https://github.com/user-attachments/assets/6a5092bd-0f0b-443d-9184-101f62d5de19)
-
+![IMG-20250625-WA0014](https://github.com/user-attachments/assets/5049bdde-7724-49a0-acb9-3bec7e156153)
+![IMG-20250625-WA0013](https://github.com/user-attachments/assets/7ba0f361-719e-4028-a58c-9f78bae8beb1)
+![IMG-20250625-WA0012](https://github.com/user-attachments/assets/eadcdd17-f5b1-4322-a7d8-957cc32baf72)
+![IMG-20250625-WA0011](https://github.com/user-attachments/assets/a8e58a99-a4e3-4562-bbf3-087e541c35a0)
+![IMG-20250625-WA0010](https://github.com/user-attachments/assets/d1ae2aa0-76d8-49f0-92c7-120813a057ef)
+![IMG-20250625-WA0025](https://github.com/user-attachments/assets/aebf2deb-88fd-4281-8b9c-7b3666491b35)
+![IMG-20250625-WA0016](https://github.com/user-attachments/assets/146f7d1e-9c0c-4a40-910d-4a717568ddd4)
+![IMG-20250625-WA0015](https://github.com/user-attachments/assets/af6d733c-33d8-4e7d-8202-7741a7b68235)
 
 
 ## 🎯 Assignment Requirements Fulfilled
