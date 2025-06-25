@@ -246,8 +246,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Developer
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Kamogelomosime/ZakaTrack_App_POE.git)
-- Email: your.email@example.com)
+- GitHub: (https://github.com/Kamogelomosime/ZakaTrack_App_POE.git)
+- Email: (St10126900@rcconnect.edu.za)
 
 ## 🙏 Acknowledgments
 
