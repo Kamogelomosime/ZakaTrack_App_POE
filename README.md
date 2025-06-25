@@ -121,7 +121,7 @@ ZakaTrack is a comprehensive, gamified expense tracking application built for An
 
 ## 🎥 Demo Video
 
-(https://www.youtube.com/@KamogeloOlebogengMosime)
+(https://youtu.be/tRDuk99Xvzc?feature=shared)
 
 **Video Features Demonstrated:**
 - User registration and authentication
