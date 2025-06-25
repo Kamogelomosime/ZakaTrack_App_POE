@@ -3,6 +3,20 @@
 ## Documentation
 [opsc assignment1.docx](https://github.com/user-attachments/files/20910248/opsc.assignment1.docx)
 
+## 🎥 Demo Video
+
+(https://youtu.be/tRDuk99Xvzc?feature=shared)
+
+**Video Features Demonstrated:**
+- User registration and authentication
+- Expense and income logging
+- Category management with color coding
+- Budget setting and goal tracking
+- Analytics dashboard with interactive charts
+- Gamification system and badge unlocking
+- Smart insights and recommendations
+- Social challenges feature
+
 
 ## 📱 Overview
 
@@ -127,20 +141,6 @@ ZakaTrack is a comprehensive, gamified expense tracking application built for An
 \`\`\`bash
 ./gradlew assembleRelease
 \`\`\`
-
-## 🎥 Demo Video
-
-(https://youtu.be/tRDuk99Xvzc?feature=shared)
-
-**Video Features Demonstrated:**
-- User registration and authentication
-- Expense and income logging
-- Category management with color coding
-- Budget setting and goal tracking
-- Analytics dashboard with interactive charts
-- Gamification system and badge unlocking
-- Smart insights and recommendations
-- Social challenges feature
 
 ## 🧪 Testing
 
