@@ -71,7 +71,9 @@ ZakaTrack is a comprehensive, gamified expense tracking application built for An
 
 | Home Dashboard | Analytics | Gamification | Budget Tracking |
 |---|---|---|---|
-| ![Home](screenshots/home.png) | ![Analytics](screenshots/analytics.png) | ![Badges](screenshots/badges.png) | ![Budget](screenshots/budget.png) |
+![IMG-20250625-WA0014](https://github.com/user-attachments/assets/6a5092bd-0f0b-443d-9184-101f62d5de19)
+
+
 
 ## 🎯 Assignment Requirements Fulfilled
 
