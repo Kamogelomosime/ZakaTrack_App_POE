@@ -1,6 +1,5 @@
 # 🎯 ZakaTrack - Enhanced Expense Tracking App
 
-![ZakaTrack Logo](app/src/main/res/drawable/app_logo.png)
 
 ## 📱 Overview
 
@@ -122,7 +121,7 @@ ZakaTrack is a comprehensive, gamified expense tracking application built for An
 
 ## 🎥 Demo Video
 
-[![ZakaTrack Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![ZakaTrack Demo](https://www.youtube.com/@KamogeloOlebogengMosime)
 
 **Video Features Demonstrated:**
 - User registration and authentication
@@ -247,9 +246,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Developer
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/Kamogelomosime/ZakaTrack_App_POE.git)
+- Email: your.email@example.com)
 
 ## 🙏 Acknowledgments
 
@@ -260,7 +258,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ for IMAD5112 Assignment**
+**Made with ❤️ **
 \`\`\`
 
 This enhanced ZakaTrack application now includes:
