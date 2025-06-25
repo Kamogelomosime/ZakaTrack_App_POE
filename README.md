@@ -1,5 +1,8 @@
 # 🎯 ZakaTrack - Enhanced Expense Tracking App
 
+## Documentation
+[opsc assignment1.docx](https://github.com/user-attachments/files/20910248/opsc.assignment1.docx)
+
 
 ## 📱 Overview
 
@@ -66,7 +69,13 @@ ZakaTrack is a comprehensive, gamified expense tracking application built for An
 - **UI Tests**: Automated testing of user interactions
 - **GitHub Actions**: Continuous integration and automated testing
 
-## 📱 Screenshots
+## 📱  New Features Screenshots
+![IMG-20250625-WA0016](https://github.com/user-attachments/assets/1f9b616f-d77e-42a8-afbe-c35e57b7323b)
+![IMG-20250625-WA0011](https://github.com/user-attachments/assets/873b6fc3-6004-4b1f-a5fc-80f9ba25dd68)
+
+### 📱 Screenshots
+
+
 ![IMG-20250625-WA0014](https://github.com/user-attachments/assets/5049bdde-7724-49a0-acb9-3bec7e156153)
 ![IMG-20250625-WA0013](https://github.com/user-attachments/assets/7ba0f361-719e-4028-a58c-9f78bae8beb1)
 ![IMG-20250625-WA0012](https://github.com/user-attachments/assets/eadcdd17-f5b1-4322-a7d8-957cc32baf72)
